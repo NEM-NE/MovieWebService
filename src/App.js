@@ -2,8 +2,13 @@ import React from 'react';
 import Potato from './Potato';
 
 
-function Food({ name }){ //new es6 can take out object value
-return <h1>I Like {name}</h1>
+function Food({ name, pictures }){ //new es6 can take out object value
+  return (
+    <div>
+      <h1>I like {name}</h1>
+      <img src={pictures} />
+    </div>
+  )
 }
 
 const foodILike = [
@@ -39,7 +44,7 @@ function App() {
     <div className="App">
      <h1>Hello!!</h1>
      <Potato />
-      {foodILike.map(dish => <Food name={dish.name}/>)}
+      {foodILike.map(dish => <Food name={dish.name} pictures = {dish.image}/>)}
     </div>
   );
 }
