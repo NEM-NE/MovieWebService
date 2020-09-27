@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/MovieWebService/static/css/main.f60bae6c.chunk.css",
-    "main.js": "/MovieWebService/static/js/main.0ed534c1.chunk.js",
-    "main.js.map": "/MovieWebService/static/js/main.0ed534c1.chunk.js.map",
+    "main.js": "/MovieWebService/static/js/main.7c6cd383.chunk.js",
+    "main.js.map": "/MovieWebService/static/js/main.7c6cd383.chunk.js.map",
     "runtime-main.js": "/MovieWebService/static/js/runtime-main.4ac7592e.js",
     "runtime-main.js.map": "/MovieWebService/static/js/runtime-main.4ac7592e.js.map",
     "static/js/2.03729dac.chunk.js": "/MovieWebService/static/js/2.03729dac.chunk.js",
     "static/js/2.03729dac.chunk.js.map": "/MovieWebService/static/js/2.03729dac.chunk.js.map",
     "index.html": "/MovieWebService/index.html",
-    "precache-manifest.c5928960b50a750069b9fd9951b992a9.js": "/MovieWebService/precache-manifest.c5928960b50a750069b9fd9951b992a9.js",
+    "precache-manifest.cd5a668e7a0c82cfd43305e19cbe86dc.js": "/MovieWebService/precache-manifest.cd5a668e7a0c82cfd43305e19cbe86dc.js",
     "service-worker.js": "/MovieWebService/service-worker.js",
     "static/css/main.f60bae6c.chunk.css.map": "/MovieWebService/static/css/main.f60bae6c.chunk.css.map",
     "static/js/2.03729dac.chunk.js.LICENSE.txt": "/MovieWebService/static/js/2.03729dac.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.4ac7592e.js",
     "static/js/2.03729dac.chunk.js",
     "static/css/main.f60bae6c.chunk.css",
-    "static/js/main.0ed534c1.chunk.js"
+    "static/js/main.7c6cd383.chunk.js"
   ]
 }
