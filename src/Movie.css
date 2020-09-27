@@ -3,7 +3,7 @@
 }
 
 .movies .movie {
-    width: 45%;
+    width: 30%;
     display: flexbox;
     height: 600px;
     background-color: white;
