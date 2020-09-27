@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/MovieWebService/static/css/main.6749605a.chunk.css",
-    "main.js": "/MovieWebService/static/js/main.d3ac92de.chunk.js",
-    "main.js.map": "/MovieWebService/static/js/main.d3ac92de.chunk.js.map",
+    "main.css": "/MovieWebService/static/css/main.f60bae6c.chunk.css",
+    "main.js": "/MovieWebService/static/js/main.6228603d.chunk.js",
+    "main.js.map": "/MovieWebService/static/js/main.6228603d.chunk.js.map",
     "runtime-main.js": "/MovieWebService/static/js/runtime-main.4ac7592e.js",
     "runtime-main.js.map": "/MovieWebService/static/js/runtime-main.4ac7592e.js.map",
     "static/js/2.03729dac.chunk.js": "/MovieWebService/static/js/2.03729dac.chunk.js",
     "static/js/2.03729dac.chunk.js.map": "/MovieWebService/static/js/2.03729dac.chunk.js.map",
     "index.html": "/MovieWebService/index.html",
-    "precache-manifest.fb87e6b8793722f96bc5a7704da1e626.js": "/MovieWebService/precache-manifest.fb87e6b8793722f96bc5a7704da1e626.js",
+    "precache-manifest.f8caf1cd2ff20b090a148365e21eb753.js": "/MovieWebService/precache-manifest.f8caf1cd2ff20b090a148365e21eb753.js",
     "service-worker.js": "/MovieWebService/service-worker.js",
-    "static/css/main.6749605a.chunk.css.map": "/MovieWebService/static/css/main.6749605a.chunk.css.map",
+    "static/css/main.f60bae6c.chunk.css.map": "/MovieWebService/static/css/main.f60bae6c.chunk.css.map",
     "static/js/2.03729dac.chunk.js.LICENSE.txt": "/MovieWebService/static/js/2.03729dac.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.4ac7592e.js",
     "static/js/2.03729dac.chunk.js",
-    "static/css/main.6749605a.chunk.css",
-    "static/js/main.d3ac92de.chunk.js"
+    "static/css/main.f60bae6c.chunk.css",
+    "static/js/main.6228603d.chunk.js"
   ]
 }
