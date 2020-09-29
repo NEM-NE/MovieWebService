@@ -1,15 +1,11 @@
 
   .movies .movie {
-    width: 45%;
     background-color: white;
     margin-bottom: 70px;
     font-weight: 300;
     padding: 20px;
     border-radius: 5px;
     color: #adaeb9;
-    display: flex;
-    align-items: flex-start;
-    justify-content: space-between;
   }
   
   .movies .movie a {
